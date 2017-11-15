@@ -1,0 +1,7 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
